@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="counter_size">40sp</dimen>
+    <dimen name="foul_counter_size">22sp</dimen>
+    <dimen name="team_name_size">16sp</dimen>
+    <dimen name="team_name_size_land">10sp</dimen>
+    <dimen name="team_margin">8dp</dimen>
+    <dimen name="lower_counter">8dp</dimen>
+    <dimen name="random_play">25dp</dimen>
+    <dimen name="left_right_to_buttons">8dp</dimen>
+    <dimen name="left_right_to_buttons_land">35dp</dimen>
+    <dimen name="left_right_to_buttons_land_two">90dp</dimen>
+    <dimen name="left_right_to_buttons_land_three">15dp</dimen>
+    <dimen name="view_line_land">190dp</dimen>
+    <dimen name="button_space">4dp</dimen>
+    <dimen name="reset_bottom">8dp</dimen>
+    <dimen name="button_text_size">12sp</dimen>
+    <dimen name="foul_text_size">16sp</dimen>
+    <dimen name="statistics_margin">8dp</dimen>
+    <dimen name="statistics_bottom_margin">12dp</dimen>
+    <dimen name="align_reset_top_play">60dp</dimen>
+    <dimen name="align_plus_one_land">80dp</dimen>
+
+</resources>
