@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
         addThreeTeamB = addThreeTeamB + 1;
         displayForTeamB(scoreTeamB);
     }
-
+//Hi
     // Increase foul count for Team A by 1.
     public void addFoulTeamA(View view) {
         foulTeamA = foulTeamA + 1;
